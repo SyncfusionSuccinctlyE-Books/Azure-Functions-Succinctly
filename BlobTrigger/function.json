@@ -1,0 +1,19 @@
+{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "hello-requests/{name}",
+      "connection": "functionappsuccb139_STORAGE"
+    },
+    {
+      "type": "blob",
+      "name": "outputBlob",
+      "path": "receipts/{rand-guid}",
+      "connection": "functionappsuccb139_STORAGE",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}

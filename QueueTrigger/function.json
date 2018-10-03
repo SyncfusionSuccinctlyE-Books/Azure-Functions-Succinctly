@@ -1,0 +1,19 @@
+{
+  "bindings": [
+    {
+      "name": "myQueueItem",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "hello-creation-requests",
+      "connection": "functionappsuccb139_STORAGE"
+    },
+    {
+      "type": "blob",
+      "name": "outputBlob",
+      "path": "hello-requests/{rand-guid}",
+      "connection": "functionappsuccb139_STORAGE",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}

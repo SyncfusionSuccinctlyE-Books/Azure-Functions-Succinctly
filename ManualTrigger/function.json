@@ -1,0 +1,17 @@
+{
+  "bindings": [
+    {
+      "type": "manualTrigger",
+      "direction": "in",
+      "name": "input"
+    },
+    {
+      "type": "queue",
+      "name": "outputQueueItem",
+      "queueName": "hello-creation-requests",
+      "connection": "functionappsuccb139_STORAGE",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}
