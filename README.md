@@ -1,7 +1,7 @@
 # Azure Functions Succinctly
-This is the companion repo for [*Azure Functions Succinctly*](https://www.syncfusion.com/ebooks) by Ed Freitas. Published by Syncfusion.
+This is the companion repo for [*Azure Functions Succinctly*](https://www.syncfusion.com/ebooks/azure-functions-succinctly) by Ed Freitas. Published by Syncfusion.
 
-[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Azure-Functions-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks)
+[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Azure-Functions-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks/azure-functions-succinctly)
 
 ## Looking for more _Succinctly_ titles?
 
